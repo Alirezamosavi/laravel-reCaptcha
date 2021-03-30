@@ -1,3 +1,6 @@
+How can update reCAPTCHA V2 to reCAPTCHA V3
+Youtube: https://youtu.be/C69rVkgZ5ec
+
 Step 1 – Install Google Recaptcha Package (anhskohbo/no-captcha)
 
  write in terminal composer require anhskohbo/no-captcha
